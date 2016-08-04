@@ -39,27 +39,3 @@ def main():
 			print(devide(num1, num2))
 		
 main()
-	
-#INVALID OLD CODE BELOW, PLEASE DO NOT USE
-	
-#def calculator(op, num1, num2):
-##		return num1 * num2
-	#elif (op == "+"):
-	#	return num1 + num2
-	#lif (op == "-"):
-	#	return num1 - num2
-#	elif (op == "/"):
-#return num1 / num2
-	#else:
-	#	return false	
-	
-	
-	
-	
-	
-#whatOp = input("What operator? ")
-#whatNum1 = input("What num1? ")
-#whatNum2 = input("What num2? ")
-
-#answer = calculator(whatOp, whatNum1, whatNum2)
-#print(answer)
